@@ -73,6 +73,7 @@ a{
     color:#fff;
 }
 
+
 .area {
     width: 100%;
     max-width: 1024px;
@@ -117,7 +118,7 @@ a{
 }
 
 
-.card h2 {
+.card h2, p {
     font-family: sans-serif;
     color: #fff;
     font-size: 29px;
